@@ -1,0 +1,56 @@
+body {
+    margin: opx;
+    padding: 0px;
+    box-sizing: border-box;
+    height: 100%;
+ }
+ 
+ .container {
+    background: linear-gradient( #ffe6ea,#66c2ff, #ffe6ea);
+    border: 1px solid rgb(14, 14, 14);
+ }
+
+ Form {
+    margin: 289px auto;
+    line-height: 50px;
+ }
+
+ label {
+    font-size: 20px;
+    font-weight: bold;
+    padding-right: 20px;
+ }
+
+ input {
+    border: none;
+    border-radius: 5px;
+    outline: none;
+    height: 35px;
+    margin-top: 15px;
+    width: 250px;
+ }
+ #color {
+    padding-left: 20px;
+ }
+
+ .add-color {
+    background-color: rgb(36, 71, 95);
+    border-radius: 5px;
+    color: #fff;
+    font-size: 20px;
+    height: 40px;
+    margin-left: 120px;
+    width: 130px;
+    
+ }
+
+ h3 {
+    margin-left: 120px;
+ }
+
+ button:hover {
+    background-color: rgb(194, 194, 198);
+    color: #fff;
+    cursor: pointer;
+    transition: 0.5s;
+ }

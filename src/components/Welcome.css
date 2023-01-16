@@ -1,0 +1,13 @@
+.welcome-wrapper {
+    background-color: black;
+    border: 1px solid black;
+    height: 100%;
+    margin-top: 20px;
+    padding-bottom: 135px;
+    width: 100%;
+}
+
+#welcome {
+    color: white;
+    margin-top: 0%;
+}
