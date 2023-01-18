@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link, useParams } from "react-router-dom";
 
-function ColorPage() {
+function ColorPage({colorList}) {
 
     const { colorName, colorHex } = useParams()
     
